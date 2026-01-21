@@ -2,7 +2,6 @@
 -- Insurance Cost Analysis
 -- Purpose: Identify key drivers of insurance charges
 -- Dataset: insurance.csv (kaggle.com/datasets/willianoliveiragibin/healthcare-insurance)
--- Author: Temur Mamanazarov
 -- =========================================================
 
 WITH base AS (
